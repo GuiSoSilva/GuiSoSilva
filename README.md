@@ -35,7 +35,7 @@ Durante minha experiencia com RPA já vivenciei diversos cenários da automaçã
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   
   <!-- Automation Anywhere (imagem local ou link) -->
-  <img src="C:\Users\guilherme.soares\Downloads\automation-anywhere-logo-a-only.avif" width="90" alt="Automation Anywhere"/>
+  <img src="https://github.com/user-attachments/assets/b716716a-c17f-473a-b2e1-68a80c6d7472" width="90" alt="Automation Anywhere"/>
 
   <!-- SQL (MySQL) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
