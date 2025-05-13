@@ -30,11 +30,7 @@ Durante minha experiencia com RPA já vivenciei diversos cenários da automaçã
 - 🧠 Colaboração com áreas de negócio e gestão de projetos
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Automation%20Anywhere-Advanced%20Certified-orange?style=for-the-badge&logo=automationanywhere" />
-  <img src="https://img.shields.io/badge/RPA-Developer-blueviolet?style=for-the-badge&logo=robotframework" />
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Automation_Anywhere_logo.svg" width="40" alt="Automation Anywhere"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_Automate_logo.svg" width="40" alt="Power Automate"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Power_Apps_Logo.png" width="40" alt="Power Apps"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" width="40" alt="Power BI"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/> </p>
 
 ---
 
