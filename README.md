@@ -34,19 +34,10 @@ Durante minha experiencia com RPA já vivenciei diversos cenários da automaçã
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermesoares&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesoares&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
-### 🌱 Atualmente estudando
+### 🌱 Se aperfeiçoando
 
 - 🐍 **Python + Selenium** para automações web
-- 📦 Boas práticas em automações escaláveis
+- 📦 Diversas ferramentas de RPA de mercado (UiPath,Power Automate, Botcity, Robocorp e N8N)
 - 📊 Integrações com ferramentas analíticas
 - 🌍 Inglês técnico para o mercado global
 
