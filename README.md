@@ -19,6 +19,8 @@ Durante minha experiencia com RPA já vivenciei diversos cenários da automaçã
 - Tecnologia da Informação
 - Educação
 
+---
+
 ### 🔧 Tecnologias e Ferramentas
 
 - 🤖 **Automation Anywhere v11 / A360**
@@ -38,10 +40,10 @@ Durante minha experiencia com RPA já vivenciei diversos cenários da automaçã
   <img src="https://github.com/user-attachments/assets/b716716a-c17f-473a-b2e1-68a80c6d7472" width="40" alt="Automation Anywhere"/>
 
   <!-- SQL (MySQL) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="SQL"/>
+  <img src="https://github.com/user-attachments/assets/cce65486-b57b-4638-8017-2cd8f16ff7c2" width="40" alt="SQL"/>
 
   <!-- Excel -->
-  <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Microsoft_Excel_2013_logo.svg" width="40" alt="Excel"/>
+  <img src="https://github.com/user-attachments/assets/93788a12-1046-4949-aed6-7a7a21ec4422" width="70" alt="Excel"/>
 
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
